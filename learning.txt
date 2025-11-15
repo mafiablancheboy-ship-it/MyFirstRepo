@@ -1,0 +1,3 @@
+In this course, I have learned how to use Linux commands and Git version control. 
+I practiced cloning repositories, creating files locally, committing changes, 
+and pushing updates to GitHub.
